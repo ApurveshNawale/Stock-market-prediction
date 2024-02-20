@@ -11,7 +11,6 @@ This project aims to predict stock prices using machine learning techniques base
 - python libraries
 
 ```bash
-
 - pandas.
 - numpy.
 - scikit-learn.
