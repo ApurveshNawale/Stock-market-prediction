@@ -8,15 +8,12 @@ This project aims to predict stock prices using machine learning techniques base
 
 ## Prerequisites
 - Python 
-- python libraries
-
-```bash
-- pandas.
-- numpy.
-- scikit-learn.
-- matplotlib.
-- seaborn.
-```
+- Python libraries:
+  - pandas.
+  - numpy.
+  - scikit-learn.
+  - matplotlib.
+  - seaborn.
 - Jupyter Notebooks
 
 
