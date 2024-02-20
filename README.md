@@ -1,4 +1,6 @@
 # Stock-market-prediction
+This project utilizes machine learning techniques to forecast future stock prices based on historical market data. It is designed for data enthusiasts, financial analysts, and anyone interested in leveraging predictive modeling to make informed investment decisions.
+
 
 ## Overview 
 This project aims to predict stock prices using machine learning techniques based on historical market data. Leveraging a diverse dataset sourced from Kaggle, we explore various models and methodologies to develop accurate predictions of future stock prices
