@@ -21,8 +21,17 @@ This project aims to predict stock prices using machine learning techniques base
 The dataset used in this project is sourced from [here](https://www.kaggle.com/datasets/luisandresgarcia/stock-market-prediction)
 
 
+
 ## Models Used
  Machine learning models used for stock market prediction
  - Exploratory Data Analysis (EDA)
  - Linear Regression
  - Random Forest Regression
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/ApurveshNawale/Stock-market-prediction.git
+```
