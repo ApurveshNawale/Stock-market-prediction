@@ -58,6 +58,6 @@ Install Python packages
 
 Run the Jupyter notebook
 ```bash
-  jupyter notebook stock_forecasting.ipynb
+  jupyter notebook main file task 1.ipynb
 ```
 
